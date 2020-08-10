@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { HistoryComponent } from './history/history.component';
 import { SearchComponent } from './search/search.component';
 import { FormsModule } from '@angular/forms';
+import { SummaryComponent } from './summary/summary.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HistoryComponent,
-    SearchComponent
+    SearchComponent,
+    SummaryComponent
   ],
   imports: [
     BrowserModule,

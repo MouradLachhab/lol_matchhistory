@@ -55,6 +55,7 @@
     margin: 82px auto 32px;
     padding: 0 16px;
     align-items: right;
+    width: 100%;
     
     /* TODO: REMOVE Debugging */
     border-style: solid;

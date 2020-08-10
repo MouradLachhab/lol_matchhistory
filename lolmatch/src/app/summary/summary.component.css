@@ -1,0 +1,61 @@
+.game-summary {
+    display: table-row;
+    border: 1px solid blue;
+}
+
+.champion-icon {
+    width: 37px;
+    border: 1px solid red;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 0px;
+}
+
+.spell-book {
+    border: 1px solid red;
+    display: table-cell;
+    vertical-align: middle;
+    width: 19px;
+    padding-left: 2px !important;
+    line-height: 15px;
+}
+
+.spell-icon {
+    width: 19px;
+}
+
+.champion-name {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.inventory {
+    width: 288px;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.item-icon {
+    width: 37px;
+    height: 37px;
+}
+
+.kda {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.income {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+.duration {
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px;
+}
